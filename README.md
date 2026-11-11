@@ -1,3 +1,14 @@
+> **CultureReset fork of [dorianorellanobbap/omarchy-jarvis](https://github.com/dorianorellanobbap/omarchy-jarvis).** Wake-word voice assistant for the Omarchy bar: ask out loud, hear the answer. Local wake word + transcription; pluggable agent backend.
+>
+> - **Why it is here:** A starting point for a voice Jarvis. The CultureReset commits replace the always-on wake word with a session that starts only on a call, text or remote session, reads an allowlist, and calls local Paperclip and vault wrappers.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch carries 5 CultureReset commits on top of upstream.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/dorianorellanobbap/omarchy-jarvis).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Jarvis (Ghost Platform)
 
 Voice front door on the box.
